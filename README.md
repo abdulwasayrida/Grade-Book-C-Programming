@@ -1,6 +1,7 @@
 # Grade-Book-C-Programming
 
 In this project, I created a grade book for an instructor. When the user runs the code, the program will prompt him/her to enter the designated password. In my code, I initialized the password to the string 123Password. If the user correctly enters the password, the Grade Book Menu will be displayed. The following numeric keyboard values are assigned for their respective actions:
+
 0-	Quit the Menu 
 1-	Add a student
 2-	Remove a student
